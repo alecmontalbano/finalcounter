@@ -1,0 +1,22 @@
+{
+  "name": "finalcounter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alecmontalbano/finalcounter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alecmontalbano/finalcounter/issues"
+  },
+  "homepage": "https://github.com/alecmontalbano/finalcounter#readme",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
